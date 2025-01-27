@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This is an organization based on the original one, mentioned in the urls, with the unique scope of extending and improve the original one, maintaining it active
+
+
 <!--
 
 **Here are some ideas to get you started:**
