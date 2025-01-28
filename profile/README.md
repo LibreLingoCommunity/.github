@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is an organization based on the original one, mentioned in the urls, with the unique scope of extending and improve the original one, maintaining it active
+This is an organization based on the [original one](https://github.com/kantord/librelingo), with the unique scope of extending and improve the original one, maintaining it active
 
 
 <!--
